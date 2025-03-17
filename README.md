@@ -2,21 +2,17 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Mircio and my nickname is "ezfinge"!
 
-<!--
-**ezfinge/ezfinge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-🌱 Atualmente estou aprendendo
 
-Here are some ideas to get you started:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
 
-- 🌱 I’m currently learning: 
-      
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-            
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-          
-      
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-📫 Como entrar em contato comigo: 
+
+chama no discord : ezfinge
+
+-⚡ Curiosidade:
+
+Viciado em games e jogos 
+
+meu perfil na steam: 
+      https://steamcommunity.com/id/ezfinge/

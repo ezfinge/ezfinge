@@ -1,6 +1,6 @@
 
-# 👋 Hello! Welcome to my Github profile.
-## My name is Mircio and my nickname is "ezfinge"!
+# 👋 Eae seus puto.
+## My name nãoédasuaconta and my nickname is "ezfinge"!
 
 -🌱 Atualmente estou aprendendo
 

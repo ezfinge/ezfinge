@@ -1,6 +1,6 @@
 
 # 👋 Eae seus puto.
-## My name is Paulincarco and my nickname is "ezfinge"!
+## my nickname is "ezfinge"!
 
 -🌱 Atualmente estou aprendendo
 

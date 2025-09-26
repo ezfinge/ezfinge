@@ -1,6 +1,7 @@
 
-# 👋 Eae seus puto.
-## my nickname is "ezfinge"!
+# 👋Salve meus mano.
+## Meu nome é Mircio!
+
 
 -🌱 Atualmente estou aprendendo
 
@@ -13,6 +14,8 @@ chama no discord : ezfinge
 -⚡ Curiosidade:
 
 Viciado em games e jogos 
+Gambiarra Maker
+Apreciador de Coquinha zero
 
 meu perfil na steam: 
       https://steamcommunity.com/id/ezfinge/

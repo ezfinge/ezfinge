@@ -2,6 +2,12 @@
 # 👋Salve meus mano.
 ## Meu nome é Mircio!
 
+Meu perfil na steam: 
+      https://steamcommunity.com/id/ezfinge/
+
+<p> Viciado em games e jogos </p>
+<p>Gambiarra Maker</p>
+<p>Apreciador de Coquinha zero</p>
 
 -🌱 Atualmente estou aprendendo
 
@@ -10,12 +16,3 @@
 -📫 Como entrar em contato comigo: 
 
 chama no discord : ezfinge
-
--⚡ Curiosidade:
-
-<p> Viciado em games e jogos </p>
-<p>Gambiarra Maker</p>
-<p>Apreciador de Coquinha zero</p>
-
-meu perfil na steam: 
-      https://steamcommunity.com/id/ezfinge/

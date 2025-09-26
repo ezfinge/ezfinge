@@ -13,9 +13,9 @@ chama no discord : ezfinge
 
 -⚡ Curiosidade:
 
-Viciado em games e jogos 
-Gambiarra Maker
-Apreciador de Coquinha zero
+<p> Viciado em games e jogos </p>
+<p>Gambiarra Maker</p>
+<p>Apreciador de Coquinha zero</p>
 
 meu perfil na steam: 
       https://steamcommunity.com/id/ezfinge/

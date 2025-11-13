@@ -1,6 +1,6 @@
 
 # 👋Salve meus mano.
-## Meu nome é Mircio!
+
 
 - Meu perfil na steam: 
       https://steamcommunity.com/id/ezfinge/
